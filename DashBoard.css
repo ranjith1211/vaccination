@@ -1,0 +1,20 @@
+.dashboard {
+  width: 55%;
+  margin: auto;
+  margin-top: 10%;
+  background-color: aquamarine;
+}
+
+td {
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+tr {
+  padding: 5px;
+}
+
+th {
+  padding: 5px;
+}

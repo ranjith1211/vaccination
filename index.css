@@ -1,0 +1,22 @@
+.navs {
+  height: 51px;
+  margin: auto;
+  vertical-align: middle;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  background-color: orange;
+}
+
+.navs a {
+  padding: 11px;
+  text-decoration: none;
+  font-size: 21px;
+}
+
+.navs a:hover {
+  background-color: teal;
+  color: white;
+}
